@@ -1,5 +1,7 @@
 package swordFingersOffer;
 
+import model.BinaryTreeNode;
+
 /**
  * 根据先序遍历和中序遍历生成二叉树
  * @author mpj12875

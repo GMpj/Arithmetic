@@ -1,4 +1,4 @@
-package swordFingersOffer;
+package model;
 public class BinaryTreeNode {  
     public int value;  
     public BinaryTreeNode leftNode;  
